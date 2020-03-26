@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/stm32duino/STM32Ethernet"
+    "url": "https://github.com/slmdchampion/STM32Ethernet"
   },
   "version": "1.1.0",
   "frameworks": "arduino",
